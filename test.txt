@@ -1,2 +1,3 @@
 my test
-printf "KOO"
+printf "kk"
+printf "Kkk"
